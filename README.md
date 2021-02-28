@@ -5,8 +5,6 @@
 ## Table of Contents
 * [Education](#education)  
 * [Skills](#skills)  
-<!--- * [Experience](#experience) -->  
-* [Portfolio](#portfolio)  
 * [Contact](#contact)  
 
 ## Education
@@ -25,9 +23,19 @@ Master of Engineering in Computer Science & Information Engineering
 * **Database**: MySQL, Firebase  
 * **Others**: SparkAR, Arduino, Processing
 
-<!--- ## Experience -->
+<!--- 
+## Experience 
 
 ## Portfolio
+
+* **NCCU Graduation Project - Auto Piano Score Generator**  
+According to the midi file of a pop song, the corresponding piano score is generated.
+![image](https://github.com/colman423/colman423/blob/main/1.png)
+    * Built with: Java
+
+* **Whac a Mole Game**  
+
+-->
 
 ## Contact
 :email: porkchopwork423@gmail.com  
