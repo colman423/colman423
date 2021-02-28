@@ -1,5 +1,15 @@
 
-**Kuang-Kai Chu**
-_________________
+## **Kuang-Kai Chu (Kai)**  
+:email: porkchopwork423@gmail.com
 
-ghjhgj
+
+### Education
+
+### Skills
+
+### Experience
+
+### Leadership
+
+### Portfolio
+ 
