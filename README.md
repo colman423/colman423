@@ -1,5 +1,5 @@
 
-## **Kuang-Kai Chu (Kai)**  
+**Kuang-Kai Chu (Kai)**  
 :email: porkchopwork423@gmail.com
 
 
