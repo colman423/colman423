@@ -42,7 +42,7 @@ Using the algorithms of computer graphic, the input large picture is assembled i
 
 * **Traveling along the Fu-Chun River VR**  
 todo  
-[![image](https://img.youtube.com/vi/b9SR5UyeX9o/0.jpg)](https://www.youtube.com/watch?v=b9SR5UyeX9o)  
+[![image](https://img.youtube.com/vi/b9SR5UyeX9o/0.jpg)](https://www.youtube.com/watch?v=b9SR5UyeX9o)
     * Built with: Unity, VFX, SteamVR  
 
 * **Codingbar**  
@@ -52,7 +52,7 @@ todo
   
 * **RWD**  
 todo  
-![image](https://github.com/colman423/colman423/blob/main/Todo.png)  
+![image](https://github.com/colman423/colman423/blob/main/RWDWebPage.png)  
     * Built with: Html/Css/JS, Bootstrap, Cordova  
    
 * **Whac a Mole Game**    
