@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kai</h1>  
+Hi! I am Kai. I'm currently studying for a master's degree in **CSIE** at **NTU**. I study **VR and HCI** related fields, and I am also a part-time **Front-End developer**.  
 
 <!---
 ## Table of Contents
