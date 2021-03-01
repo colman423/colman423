@@ -25,7 +25,7 @@ Bachelor of Science in Computer Science
 
 ## Portfolio
 
-* **Traveling along the Fu-Chun River VR**  
+* [**Traveling along the Fu-Chun River VR**](https://www.youtube.com/watch?v=b9SR5UyeX9o)  
 A project that graduate school cooperates with the National Palace Museum.  
 In this project, "Dwelling in the Fuchun Mountains" is made into a VR work, allowing viewers to immerse themselves in the painting.   
 I am responsible for the visual effect of water droplets.  
