@@ -28,7 +28,7 @@ Bachelor of Science in Computer Science
 * **Traveling along the Fu-Chun River VR**  
 A project that graduate school cooperates with the National Palace Museum.  
 In this project, "Dwelling in the Fuchun Mountains" is made into a VR work, allowing viewers to immerse themselves in the painting.   
-I am responsible for the visual effect of water droplets.
+I am responsible for the visual effect of water droplets.  
 [![image](https://img.youtube.com/vi/b9SR5UyeX9o/0.jpg)](https://www.youtube.com/watch?v=b9SR5UyeX9o)
     * Built with: Unity, VFX, SteamVR  
 
