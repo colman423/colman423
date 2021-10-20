@@ -4,7 +4,7 @@
 Hi! I am Kai. I'm currently studying for a master's degree in **CSIE** at **NTU**. I study **VR and HCI** related fields, and I am also a part-time **Front-End developer**.
 
 ## :book: Education
-* **National Taiwan University**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2019/09 - 2021/10
+* **National Taiwan University**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2019/09 - 2021/10  
 Master of Engineering in Computer Science & Information Engineering  
 * **National Chengchi University**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2014/09 – 2019/06  
 Bachelor of Science in Computer Science   
