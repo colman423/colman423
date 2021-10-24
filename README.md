@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Kai</h1>  
 
-Hi! I am Kai. I'm currently studying for a master's degree in **CSIE** at **NTU**. I study **VR and HCI** related fields, and I am also a **Front-End developer**.
+
+Hi! I am is Kai. I have a **strong ability to learn new things** and strive to become an **excellent Front-End engineer**.
+Hope to create a **good User Experience (UX)** for users and bring **efficent productivity** and **high-quality code** to the company.
+
 
 ## :book: Education
 * **National Taiwan University**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2019/09 - 2021/10  
