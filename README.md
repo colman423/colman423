@@ -15,13 +15,10 @@ Bachelor of Science in Computer Science
 
 
 # :computer: Skills
-* **Programming Languages**: JavaScript, Python, Java, C#  
-* **Unity**: SteamVR, Shader, Timeline, Visual Effect Graph(VFX)  
-* **Web**: HTML/CSS/JS, React, Sass, Node.js, jQuery 
-* **Mobile**: Android Java, Kotlin, React-Native, Cordova  
-* **Python**: Requests, Selenium, OpenCV, Flask  
-* **Database**: MySQL, Firebase  
-* **Others**: SparkAR, Arduino, Processing
+* **Specialize in React**: React hooks, Next.js, Redux (thunk, saga), Material-UI, CSS-in-JS, SASS, Tailwind
+* **more than a FE programmer**: Cypress e2e testing, Webpack, Accessibility (a11y)
+* **Also familiar in CRUD Backend**: Python, RESTful, ORM, docker, Python async-io, Kibana
+* **Workflows**: Git flow, Scrum, Kanban, CI/CD
 
 <!--- 
 ## Experience 
