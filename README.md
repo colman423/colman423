@@ -26,6 +26,17 @@ Bachelor of Science in Computer Science
 
 # :file_folder: Portfolio
 
+## [**Breakout HTML**](https://colman423.github.io/breakout-clone/)
+  * Built with: VanillaJS
+   * [Github Link](https://github.com/colman423/breakout-clone)  / [Demo Link](https://colman423.github.io/breakout-clone/)  
+   
+   ![image](https://github.com/colman423/colman423/blob/main/breakout-html.png)     
+    
+   * A breakout-clone game which can hit the HTML elements.
+   * Users can **use the mouse to control** the bottom paddle.   
+   * Implemented without using 3rd party lib, only Bootstrap is used to quickly build some HTML elements.
+   * Using **window.requestAnimationFrame**, **CSS transition** to control the game flow.
+
 ## [**React-Constellation**](https://colman423.github.io/Constellation/)    
    * Built with: React, canvas API  
    * [Github Link](https://github.com/colman423/Constellation)  / [Demo Link](https://colman423.github.io/Constellation/)  
@@ -36,16 +47,6 @@ Bachelor of Science in Computer Science
    * Users can **use the mouse to interact** with the particles.   
    * The particles and animations is implemented using **canvas API** and **window.requestAnimationFrame**.   
    * Use **React Hook** to encapsulate into a single component. 
-
-## [**Traveling along the Fu-Chun River VR**](https://www.youtube.com/watch?v=b9SR5UyeX9o)  
-   * Bulit with: Unity, Visual Effect Graph, SteamVR  
-   * [Introduction of the VR work](https://www.youtube.com/watch?v=b9SR5UyeX9o)     
-   
-   ![image](https://img.youtube.com/vi/b9SR5UyeX9o/0.jpg)
-   
-   * A project cooperate between [NTU imLab](https://www.ntuimlab.tw/) and [National Palace Museum](https://www.npm.gov.tw/).
-   * Famous painting "Dwelling in the Fuchun Mountains" is made into a **VR work**, allowing viewers to immerse themselves in the painting.
-   * I was responsible for the **visual effect** of water droplets, and implemented using **VFX in Unity**.   
 
 ## [**Codingbar**](https://codingbar.ai/)    
    * Built with: React, Redux, Material-UI   
