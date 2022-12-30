@@ -32,10 +32,11 @@ Bachelor of Science in Computer Science
    
    ![image](https://github.com/colman423/colman423/blob/main/breakout-html.png)     
     
-   * A breakout-clone game which can hit the HTML elements.
+   * A breakout-clone game which can **hit the HTML elements**.
    * Users can **use the mouse to control** the bottom paddle.   
-   * Implemented without using 3rd party lib, only Bootstrap is used to quickly build some HTML elements.
+   * Implemented **without using 3rd party lib**, only Bootstrap is used to quickly build some HTML elements.
    * Using **window.requestAnimationFrame**, **CSS transition** to control the game flow.
+   * Currently work in progress, every day it may have some updates.
 
 ## [**React-Constellation**](https://colman423.github.io/Constellation/)    
    * Built with: React, canvas API  
@@ -56,9 +57,9 @@ Bachelor of Science in Computer Science
    image source: [codingbar medium](https://medium.com/codingbar/%E5%A4%A2%E6%83%B3%E4%BF%83%E4%BD%BF%E7%A4%BE%E5%9C%98%E7%9A%84%E8%90%8C%E8%8A%BD-%E6%BF%B1%E6%B1%9F%E5%94%90%E5%90%8C%E5%AD%B8-b29997e581aa)  
    
    * Codingbar is an **online programming education platform**, including interfaces for students, teachers and administrators.  
-   * Mainly responsible for **software architecture design** and **implementation of the UIUX in v2.0 platform**.  
-   * We used **React** as our front-end framework, **Material-UI** as our UI library, and **Redux** to manage the data flow. 
-   * We implemented the online coding UIUX using [Monaco Editor](https://microsoft.github.io/monaco-editor/) and [Microsoft Programming Experience Toolkit](https://github.com/microsoft/pxt).
+   * **Led the frontend architecture** design and implementation of **v2.0 platform**.
+   * We utilized [Monaco Editor](https://microsoft.github.io/monaco-editor/) with our **real-time linter** to build the **online coding editor**.
+   * Developed an online blockly editor for coding **block-based visual programming languages** using [Microsoft Programming Experience Toolkit](https://github.com/microsoft/pxt).
 
 ## [**BiiLabs Website**](https://biilabs.io/)
    * Built with: jQuery, Bootstrap, Sass, Gulp  
